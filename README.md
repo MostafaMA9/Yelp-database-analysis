@@ -1,4 +1,6 @@
 # Yelp-database-analysis
-In this repository you profile and analyze yelp dataset. 
-For more information about this dataset you can visit the following website:
+
+Welcome to the Yelp Database Analysis repository! Here, I've conducted a comprehensive analysis of the Yelp dataset using SQL.
+
+For detailed information about this dataset, please visit the following link:
 https://www.yelp.com/dataset
